@@ -1,6 +1,6 @@
 # Hands-On Excercixe Code for  ICTer 2026
 
-* Slides can be found at [slides/2026-ICter-Tutorial.pdf]. 
+* Slides can be found at [slides/2026-ICter-Tutorial.pdf](Slides). 
 * Please follow along to try out the Hands-on tasks. 
 * Notes were made on Nov 03, 2026; if you check later, the instructions for getting API keys, etc., may have changed. 
 
@@ -155,7 +155,7 @@ contain no print statements.
 
 ---
 
-## Hands on Session 02
+# Hands on Session 02
 
 All four Tau tasks use the same request: **“My mobile internet is broken or slow;
 I need excellent speed, and I have no Wi-Fi.”** The customer is John Smith, phone
