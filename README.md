@@ -1,3 +1,10 @@
+# Hands-On Excercixe Code for  ICTer 2026
+
+* Slides can be found at [slides/2026-ICter-Tutorial.pdf]. 
+* Please follow along to try out the Hands-on tasks. 
+* Notes were made on Nov 03, 2026; if you check later, the instructions for getting API keys, etc., may have changed. 
+
+
 # Get a free OpenRouter API key
 
 Both hands on sessions call models through OpenRouter, so create a key first.
